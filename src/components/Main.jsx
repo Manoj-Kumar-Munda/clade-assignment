@@ -1,9 +1,19 @@
-import React from 'react'
+import React from "react";
+import Tabs from "./Tabs";
+import JobDescription from "./JobDescription";
+import ApplicationStats from "./ApplicationStats";
 
 const Main = () => {
   return (
-    <div>Main</div>
-  )
-}
+    <div className="">
+      <Tabs />
+      <div className="flex">
+        <JobDescription />
 
-export default Main
+        <ApplicationStats />
+      </div>
+    </div>
+  );
+};
+
+export default Main;
