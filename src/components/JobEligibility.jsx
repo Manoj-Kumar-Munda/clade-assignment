@@ -17,16 +17,19 @@ const JobEligibility = () => {
           </div>
         </div>
 
-        <div>
+        <div className="">
           <h2 className="text-[#6E6D6D]">Prefered language</h2>
+          <span className="">English</span>
         </div>
 
         <div>
           <h2 className="text-[#6E6D6D]">Type</h2>
+          <span>Full time</span>
         </div>
 
         <div>
           <h2 className="text-[#6E6D6D]">Years of experience</h2>
+          <span>3+ Years of Experience</span>
         </div>
       </div>
     </div>
