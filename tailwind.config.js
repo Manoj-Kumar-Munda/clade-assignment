@@ -15,6 +15,7 @@ export default {
         "light-gray": "#888888"
       },
       boxShadow: {
+        "skills-btn" : "0px 4px 4px 0px #00000014 inset",
         "btn" : "0px 4px 4px 0px #00000040",
         "nav-inset": "0px 4px 4px 0px #00000040 inset",
         "header" : "0px 4px 4px 0px #D9D9D91A"
