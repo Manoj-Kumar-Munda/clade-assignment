@@ -9,7 +9,6 @@ const Main = () => {
       <Tabs />
       <div className="flex">
         <JobDescription />
-
         <ApplicationStats />
       </div>
     </div>
