@@ -4,7 +4,7 @@ import logo from "../assets/icons/logo_square.png";
 const Company = () => {
   return (
     <div className="border-b">
-      <div className="my-5 pl-10 max-w-3xl w-full">
+      <div className="my-5 pl-4 md:pl-10 max-w-3xl w-full">
         <div className="flex gap-4 items-center">
           <img src={logo} className="w-10 h-10" alt="logo" />
           <span className="text-xl">Atlassian</span>

@@ -3,8 +3,8 @@ import React from "react";
 const About = () => {
   return (
     <div className="border-b">
-      <div className="pl-10 my-5">
-        <h3 className="text-sm text-[#6E6D6D] mb-5">About the job</h3>
+      <div className="px-4 md:pl-10 my-5">
+        <h3 className="text-sm text-[#6E6D6D] mb-3 md:mb-5">About the job</h3>
         <div className="space-y-1">
           <ol className="list-[number] list-inside space-y-1">
             <li>
