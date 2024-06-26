@@ -15,10 +15,11 @@ export default {
         "light-gray": "#888888"
       },
       boxShadow: {
+        "card": "-4px 8px 20px 0px #0000001A",
         "skills-btn" : "0px 4px 4px 0px #00000014 inset",
         "btn" : "0px 4px 4px 0px #00000040",
         "nav-inset": "0px 4px 4px 0px #00000040 inset",
-        "header" : "0px 4px 4px 0px #D9D9D91A"
+        "header" : "0px 4px 4px 0px #D9D9D91A",
       }
     },
   },
